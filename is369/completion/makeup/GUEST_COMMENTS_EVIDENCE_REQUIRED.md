@@ -1,5 +1,5 @@
 # Guest Comments — September 18 Makeup
-**10 pts | Past due | Rubric not provided | NOT submission-ready**
+**10 pts | Past due | Rubric not provided | MAKEUP PERMITTED (Oct. 31, user-reported written reply), due date TBD | NOT submission-ready**
 
 The course notes reference guest speakers **Jack Seuss and Pat McLoughlin**, but do not establish which presentation(s) the September 18 submission covered or provide source material from the session. The text below is a *structured note sheet*, not an asserted eyewitness account.
 
@@ -19,5 +19,5 @@ The course notes reference guest speakers **Jack Seuss and Pat McLoughlin**, but
 
 **Conclusion.** Identify the most useful takeaway and one follow-up question you would ask.
 
-## Alternative
-If the session recording and notes are unavailable, ask the instructor to approve a source-based analysis of a publicly accessible presentation. Do not submit this form as if attendance occurred.
+## Missing evidence
+The original September guest-session title, actual speaker/date, notes or recording, and student reflections have not been supplied. The professor did not authorize substitute or alternate assignments. **Do not represent the worksheet as a completed session.**

@@ -1,5 +1,5 @@
 # IT-2 — 21 Responses + Independent Evaluation Sheet
-**30 pts | Was due Oct. 21, 2026 | MAKEUP DRAFT; instructor permission required**
+**30 pts | Was due Oct. 21, 2026 | MAKEUP DRAFT; instructor permission CONFIRMED (Oct. 31, user-reported written reply); submit ASAP, due date TBD**
 **Source:** Hou et al. (2026), https://doi.org/10.1016/j.compedu.2026.105576
 **WARNING:** Specific responses involving article Appendix A, scoring rubrics, and results beyond the previously supplied excerpt require comparison against the complete primary article before submission. Partner/session evidence is not supplied and should never be invented.
 

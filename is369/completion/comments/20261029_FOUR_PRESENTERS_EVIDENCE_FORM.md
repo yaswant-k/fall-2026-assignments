@@ -1,6 +1,6 @@
 # Comments 2026-10-29 — Presentation 2
-**5 pts | Due 2026-10-30, 11:59 p.m. EST unless Blackboard specifies otherwise**  
-**Status:** PAST DUE / permission-dependent — **UNVERIFIABLE until the four actual presentations, their articles, and student observations are available.** These forms are not completed observations.
+**5 pts | Originally due 2026-10-30, 11:59 p.m. EDT; makeup permitted as user-reported October 31, deadline TBD**  
+**Status:** PAST DUE / makeup permission CONFIRMED in Oct. 31 written reply (user-reported); deadline TBD; submit ASAP when evidentiary fields are complete — **UNVERIFIABLE until the four actual presentations, their articles, and student observations are available.** These forms are not completed observations.
 
 ### Presenter 1
 **Name, approved paper, and verified material:** [FILL FROM PRESENTATION/SLIDES]

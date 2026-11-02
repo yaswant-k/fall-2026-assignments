@@ -1,6 +1,10 @@
 # IS 369 — Source and Export QA, 2026-11-02
 
 ## Scope and interpretation
+**Makeup authorization (user-reported written reply, October 31, 2026):** Professor Bill Ryan agreed to accept the missed IT-2, Critical Thinking assignments, Guest Comments, and past-due presentation comments discussed in the October 30 email, with full credit possible depending on quality. Submit ASAP. **Instructor-set makeup deadline remains TBD.** This is permission to submit, **not approval/acceptance of any draft and not points earned**. No alternate assignments, extra credit, or Incomplete. Work beginning November 3 remains subject to its ordinary deadline.
+
+**Article selection decision:** pending; no verified Ibdah or Guo professor approval. **Personal inputs:** NONE YET. This audit did not repeat the already completed Ibdah numeric source verification.
+
 This is **a verified layout/source audit, not an acceptance or Blackboard submission**. The working GitHub repository is PUBLIC. Research drafts and export scripts live on branch `is369/source-grounded-completion-20261102`. Actual DOCX/PPTX artifacts were generated and rendered in the ChatGPT conversation and made available as conversation file downloads; **binary DOCX/PPTX files have not been committed to GitHub**.
 
 ## Verified output files
@@ -21,7 +25,13 @@ Full 23-page article: https://anysbacha.github.io/publications/ibdah_access21.pd
 - Section VII / Table 6, journal p. 166480: Interface 4 user-friendliness 49%, willingness to read 47.4%; Interface 1 user-friendliness 2.7%, willingness to read 3.6%. Distinguish preference from observed actual policy reading.
 - Section V-A: security-knowledge reading groups 59.4%, 75%, and 92%; observational comparison, not an educational causal effect.
 
-### Primary-source status — Guo et al. 2022
+### Primary-source status — Guo et al. 2022 (rechecked Nov. 2)
+- Publisher preview: https://link.springer.com/article/10.1007/s10209-021-00815-1 — source article is subscription-restricted beyond the abstract. Access page confirms 2022 volume 21, pages 795–808, originally online May 11, 2021.
+- ResearchGate publisher preview: https://www.researchgate.net/publication/351495657_Effects_of_visual_complexity_on_user_search_behavior_and_satisfaction_an_eye-tracking_study_of_mobile_news_apps — first-page metadata/abstract and images, not the complete 14-page methods/tables.
+- Prior **unverified** source transcription in `is369/completion/makeup/CT_2_EYETRACKING_17_RESPONSES.md` records sample age 21–26, mean 23.847, SD 1.422 and detailed ANOVA/means; these values have **not** been independently corroborated against the full original paper and therefore are *not* promoted to VERIFIED or copied into the review's numerical claims.
+- No independently authenticated changes to sample demographics, tested F/p values, or effect sizes were made. Full institutional PDF or approved author copy is the precise needed input.
+
+
 Published abstract https://doi.org/10.1007/s10209-021-00815-1 and accessible publisher-preview excerpts confirm 34 **invited** participants; higher quantity complexity increased revisits/fixations/saccades and reduced satisfaction; higher layout complexity increased revisits/saccades, with nonlinear fixation and inverted-U satisfaction patterns.
 **Full methods, exact analyzed demographics, experimental tables and effect sizes were NOT independently accessible.** Previous-course note ages 21–26, mean 23.85, SD 1.42 remain expressly marked unverified in Word and PowerPoint. No invented p-values, means, qualitative interviews, or numerical chart are included. Full paper is required before a submission-ready statistical/demographic audit.
 
@@ -32,7 +42,7 @@ Published abstract https://doi.org/10.1007/s10209-021-00815-1 and accessible pub
 - IT-3: article and questions not provided; no answers made.
 - Final Project 1–3: proposed four citations and AI-verification theme remain **unconfirmed**, design unapproved, no data collected.
 - Quiz practice sheets exist; quizzes unattempted by assistant.
-- Instructor controls article approvals, late-work admission, presentation scheduling and grades.
+- October 31 (user-reported written message) confirms **permission** for missed IT-2, Critical Thinking 1 and 2, Guest Comments, and past-due peer comments. Instructor will set **deadline TBD**; full marks possible subject to quality. Ordinary deadlines from November 3 onward still apply. No alternate tasks, extra credit, or Incomplete. Instructor retains grading and article-approval authority.
 
 ## Rubric coverage intent
 Review 2/3: APA; purpose and publication rationale; sample/methods; quantitative and qualitative treatment; three supported strengths and weaknesses; future work; summary; writing quality. Presentation 2/3: same, with concise visual organization and speaker notes. **Evidence readiness and approval are separate from structural rubric coverage**. No grade guarantees.

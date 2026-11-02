@@ -1,5 +1,5 @@
 # Critical Thinking Assignment 1 — Privacy Policies
-**10 pts | Was due Sep. 23, 2026 | MAKEUP DRAFT; permission required**
+**10 pts | Was due Sep. 23, 2026 | MAKEUP DRAFT; makeup permission CONFIRMED (Oct. 31, user-reported written reply); submit ASAP, due date TBD**
 **Source:** https://anysbacha.github.io/publications/ibdah_access21.pdf
 **Scope:** 20 responses reconstructed from previously available course prompt/topic summary; official question sheet not independently verified. Opinion responses must be revised by the student.
 

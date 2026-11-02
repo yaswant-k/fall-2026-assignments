@@ -2,22 +2,26 @@
 **Prepared Nov. 2, 2026 | Repository: public | Student: Yaswant Kakarla**
 **Work branch:** is369/source-grounded-completion-20261102
 
-This directory distinguishes **source-grounded drafted content** from **submission-ready work**. Draft status does *not* imply course submission, accepted makeup work, article approval, actual class attendance, recruited subjects, or grades earned.
+This directory distinguishes **source-grounded drafted content** from **submission-ready work**. Draft status does *not* imply course submission, graded acceptance, article approval, actual class attendance, recruited subjects, or points earned.
+
+**Makeup authorization (user-reported written reply, October 31, 2026):** Professor Bill Ryan agreed to accept the missed IT-2, Critical Thinking assignments, Guest Comments, and past-due presentation comments discussed in the October 30 email, with full credit possible depending on quality. Submit ASAP. **Instructor-set makeup deadline remains TBD.** This is permission to submit, **not approval/acceptance of any draft and not points earned**. No alternate assignments, extra credit, or Incomplete. Work beginning November 3 remains subject to its ordinary deadline.
+
+**Review 2 article status:** Ibdah et al. (2021) is PROPOSED; approval not confirmed. **Personal input fields:** NONE YET (IT-2/CT views, actual partner, presentation/guest notes, Final Project theme/four articles). The four previously generated DOCX/PPTX exports have verified SHA-256 values listed in `QA_20261102_VERIFICATION_REPORT.md`; they are not committed as binary GitHub files.
 
 ## Priority 1 — Nov. 3 deadline
 | Item | Points | Current output | Remaining blocker |
 |---|---:|---|---|
-| Article Review 2 | 100 | Full proposed written review: privacy-policy article | Article approval not verified; Word conversion and student sign-off |
-| Presentation 2 | 60 | Eleven-slide Marp script plus delivery notes | Article approval not verified; PowerPoint export and practice |
+| Article Review 2 | 100 | 2-page DOCX rendered and SHA-256 matched; proposed Ibdah paper | Approved paper confirmation and student sign-off; Nov. 3 deadline |
+| Presentation 2 | 60 | 12-slide PPTX exported, notes and overflow QA checked | Approved Review 2 paper; student sign-off and scheduled delivery; Nov. 3 deadline |
 
 ## Other source-based drafts
 | Item | Points | Output | Needed before submission |
 |---|---:|---|---|
-| IT-2 (Oct 21 makeup) | 30 | 21 existing researched responses carried into standalone file | Compare article beyond first 6pp, real separate evaluation and actual partner, instructor permission |
-| Critical Thinking 1 makeup | 10 | 20 responses | Original question sheet cross-check, personal opinion answers, instructor permission |
-| Critical Thinking 2 makeup | 10 | 17 responses | Original question sheet and cited prior studies verification, personal opinion answers, permission |
-| Article Review 3 (Nov 24) | 100 | Written review of Guo et al. | Article approval and any exact table-level evidence verification |
-| Presentation 3 (Nov 24) | 60 | Twelve-slide Marp script | Approval, PPTX export, delivery preparation |
+| IT-2 (Oct 21 makeup) | 30 | 21 research responses; makeup permission reported CONFIRMED | Full 21-page Hou paper for remaining source checks; student's personal evaluation; actual partner, if one participated; submit ASAP (deadline TBD) |
+| Critical Thinking 1 makeup | 10 | 20 drafted responses; makeup permission reported CONFIRMED | Official question sheet, own opinion answers; submit ASAP (deadline TBD) |
+| Critical Thinking 2 makeup | 10 | 17 drafted responses; makeup permission reported CONFIRMED | Official question sheet, complete Guo source/secondary citations (Q5/Q6), own opinion answers; submit ASAP (deadline TBD) |
+| Article Review 3 (Nov 24) | 100 | 3-page DOCX rendered and SHA-256 matched; proposed Guo paper | Confirm article approval; obtain full 14-page paper to independently verify demographics, tables and effect sizes |
+| Presentation 3 (Nov 24) | 60 | 12-slide PPTX exported; notes and overflow QA checked | Guo article approval; full-methods/statistics verification; delivery preparation |
 | Final Project 1 (Dec 2) | 34 | Question, H1–H3, thesis, focus, 4 citations | Confirm 3 semester-selected papers and theme |
 | Final Project 2 (Dec 4) | 33 | 4-paper analytic synthesis | Confirm references/semester theme; polish |
 | Final Project 3 (Dec 9) | 33 | Experiment, planned demographics, analysis, ethics | Faculty approval of proposed question/design |
@@ -25,8 +29,8 @@ This directory distinguishes **source-grounded drafted content** from **submissi
 ## Evidence-blocked and personally executed items
 | Item(s) | Output now | Missing |
 |---|---|---|
-| Guest Comments (Sep 18) | Honest evidence worksheet | Actual speaker/session presentation material and reflection |
-| Presentation comments Sep 29; Oct 1, 6, 8, 22, 27, 29; Nov 3, 12, 17, 19, 24 | 12 dated forms × 4 presenters × 6 required answers | Names, paper choices, slides/recordings, authentic critique |
+| Guest Comments (Sep 18 makeup) | Honest evidence worksheet; permission reported CONFIRMED | Actual session material, speaker/title/date and authentic reflection; submit ASAP (deadline TBD) |
+| Presentation comments Sep 29; Oct 1, 6, 8, 22, 27, 29; Nov 3, 12, 17, 19, 24 | 12 dated forms × 4 presenters × 6 required answers; past-due makeup permission reported CONFIRMED | Names, papers, slides/recordings and actual personal observations; past-due forms ASAP, instructor deadline TBD; future forms due on time |
 | IT-3 (Nov 11) | Rubric-complete response structure | Official article + questions; actual student evaluation/partner |
 | IT-2 Student Quiz 2 (Nov 5) | Research-backed practice sheet | Student takes Blackboard quiz |
 | IT-3 Student Quiz (Dec 1) | Study framework | Official IT-3 article/questions; student takes quiz |
@@ -46,4 +50,4 @@ This directory distinguishes **source-grounded drafted content** from **submissi
 - **Instructor feedback:** APA reference hanging indent; fully describe *all* study tasks/instruments; complete true demographics; distinguish numeric results from qualitative themes; use third-person reviewer voice, not author voice.
 - **Word export:** 12 pt, single-spaced, left-aligned, paragraph indents, APA hanging references. The proposed articles have publication citations; *approval is unknown*.
 
-**Submission policy:** no Blackboard submission performed; past-due permissions unverified. Verify public GitHub visibility before storing unpublished personal observations or course-restricted documents.
+**Submission policy:** no Blackboard submission performed. October 31 written makeup permission is user-reported and applies only to the specified past-due categories; actual work remains blocked by its source/personal evidence. Verify public GitHub visibility before storing unpublished observations or course-restricted documents.

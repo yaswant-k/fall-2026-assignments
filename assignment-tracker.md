@@ -6,18 +6,22 @@
 ## Rubric/instruction detail lives in: all-courses-syllabi-due-dates-rubrics-2026-10-30.md (Oct 30 Blackboard read).
 
 ## IS 369 — 26 items in scope (36 total − 3 disallowed − 7 graded/locked)
+
+**Updated Nov 2:** Professor Bill Ryan's Oct 31 written reply (as provided by student) confirms makeup submission permission for IT-2, Critical Thinking 1/2, Guest Comments, and all discussed past-due peer comments. **Submit ASAP; specific makeup due date still TBD; full points possible depending on quality, not guaranteed.** No alternate assignments, extra credit, or Incomplete. Normal deadlines for work beginning Nov 3 remain in force. Ibdah Review 2 and Guo Review 3 are proposed papers, **not verified approved**. [Detailed evidence-gated ledger](is369/completion/COMPLETION_INDEX_AND_QA.md); [exact inputs still needed](is369/completion/STILL_NEEDED_EXACT_INPUTS_20261102.md).
 ### Makeup pool — past due, 1 attempt left (write first, in this order)
-- [ ] IT-2 (30) — due was Oct 21. NEEDS: interteaching questions doc (browser pull in progress) + partner evaluation note.
-- [ ] Critical Thinking Assignment 1 (10) — due was Sep 23. NEEDS: question doc for the privacy-policy article.
-- [ ] Critical Thinking Assignment 2 (10) — due was Sep 25. NEEDS: question doc for the mobile-news eye-tracking article.
-- [ ] Guest Comments (10) — due was Sep 18. NEEDS: which guest presentation(s) it covers.
+- [ ] IT-2 (30) — due was Oct 21, **MAKEUP PERMITTED**. Existing 21 answers; NEEDS full Hou PDF check, student's own evaluation and actual partner info (if applicable).
+- [ ] Critical Thinking Assignment 1 (10) — due was Sep 23, **MAKEUP PERMITTED**. Existing 20 answers; NEEDS official question sheet and student's actual opinions.
+- [ ] Critical Thinking Assignment 2 (10) — due was Sep 25, **MAKEUP PERMITTED**. Existing 17 answers; NEEDS official question sheet, Guo full PDF for table and Q5/Q6 references, student's opinions.
+- [ ] Guest Comments (10) — due was Sep 18, **MAKEUP PERMITTED**. NEEDS actual session material, date/speaker/title and user's observations.
 - [ ] Comments 09/29 Presentation 1 (5) — NEEDS: notes on the 4 presentations covered.
 - [ ] Comments 10/01 Presentation 1 (5) — NEEDS: notes on the 4 presentations covered.
 - [ ] Comments 10/06 Presentation 1 (5) — NEEDS: notes on the 4 presentations covered.
 - [ ] Comments 10/08 Presentation 1 (5) — NEEDS: notes on the 4 presentations covered.
 - [ ] Comments 10/22 Presentation 2 (5) — NEEDS: notes on the 4 presentations covered.
 - [ ] Comments 10/27 Presentation 2 (5) — NEEDS: notes on the 4 presentations covered.
-### Still open (due dates ahead)
+**All past-due presentation comment entries above and the Oct 29 date below are makeup-permitted under the user-reported Oct 31 agreement; specific deadline TBD.** Presenter/source evidence remains missing for each.
+
+### Still open (due dates ahead or recently passed)
 - [ ] Comments 10/29 Presentation 2 (5) — due Oct 30, 11:59 PM EDT. NEEDS: notes on the 4 presentations covered.
 - [ ] Presentation 2 (60) — due Nov 3, 11:59 PM EST. NEEDS: his approved Review 2 article.
 - [ ] Article Review 2 (100) — due Nov 3, 11:59 PM EST. NEEDS: his approved Review 2 article.

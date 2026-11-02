@@ -1,5 +1,5 @@
 # Critical Thinking Assignment 2 — Mobile News Eye Tracking
-**10 pts | Was due Sep. 25, 2026 | MAKEUP DRAFT; permission required**
+**10 pts | Was due Sep. 25, 2026 | MAKEUP DRAFT; makeup permission CONFIRMED (Oct. 31, user-reported written reply); submit ASAP, due date TBD**
 **Source:** https://doi.org/10.1007/s10209-021-00815-1
 **Scope:** 17 topic-based responses from prior source analysis. Official question sheet and quoted secondary-study references must be checked against the final article; personal opinions are marked for the student.
 
