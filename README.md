@@ -1,4 +1,6 @@
-# Fall 2026 Assignments — UMBC (private study workspace)
+# Fall 2026 Assignments — UMBC (PUBLIC study workspace)
+
+> **Visibility notice:** This repository is publicly visible on GitHub. Do not commit confidential Blackboard handouts, unpublished presentation observations, or personal student records. The `is369/completion/` branch contains clearly labeled draft coursework, not submissions.
 
 Self-contained prompt packs, drafts, and prep sheets for IS 369, IS 472, and IS 430.
 Nothing in this repo is submitted anywhere — every file is a draft or a prompt for the
