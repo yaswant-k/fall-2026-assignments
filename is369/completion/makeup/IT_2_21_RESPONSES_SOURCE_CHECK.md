@@ -11,9 +11,7 @@
 # Partner: [FILL: partner name]
 
 ## 1. APA citation
-Hou, Zhu, Liu, Sudarshan, Chong, Zhang, Tan, and Ong (2026), Computers & Education,
-247, Article 105576. (Use the journal's exact author order and article number from the
-article's first page when formatting the final reference list.)
+Hou, C., Zhu, G., Liu, Y., Sudarshan, V., Chong, J. L. L., Zhang, F. Y., Tan, M. Y. H., & Ong, Y. S. (2026). The effects of critical thinking intervention on reliance behaviors, problem-solving quality, and creativity during human-generative AI collaborative learning. *Computers & Education, 247*, Article 105576. https://doi.org/10.1016/j.compedu.2026.105576
 
 ## 2. Critical thinking (Delphi Report, as presented in the article)
 Critical thinking is purposeful, self-regulatory judgment: interpreting, analyzing,
