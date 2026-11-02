@@ -11,9 +11,7 @@
 # of mobile news-app experience, $5 gift card.
 
 ## 1. APA citation
-Guo, Chen, Li, Lyu, and Zhang (2022), Universal Access in the Information Society, 21,
-795–808. (Use the article's exact author order and full title from its first page when
-formatting the final reference list.)
+Guo, F., Chen, J., Li, M., Lyu, W., & Zhang, J. (2022). Effects of visual complexity on user search behavior and satisfaction: An eye-tracking study of mobile news apps. *Universal Access in the Information Society, 21*, 795–808. https://doi.org/10.1007/s10209-021-00815-1
 
 ## 2. Opinion of the abstract: [YOUR VIEW — with the abstract's claim]
 The abstract's claim, in brief: website visual complexity is well studied but mobile
