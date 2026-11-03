@@ -1,5 +1,5 @@
 # IS 369 — Assignment Deliverables, Evidence and Readiness Ledger
-**Prepared Nov. 2, 2026 | Repository: public | Student: Yaswant Kakarla**
+**Prepared Nov. 2, 2026; corrected Nov. 3 | Repository: public | Student: Yaswant Kakarla**
 **Work branch:** is369/source-grounded-completion-20261102
 
 This directory distinguishes **source-grounded drafted content** from **submission-ready work**. Draft status does *not* imply course submission, graded acceptance, article approval, actual class attendance, recruited subjects, or points earned.
@@ -8,11 +8,15 @@ This directory distinguishes **source-grounded drafted content** from **submissi
 
 **Review 2 article status:** Ibdah et al. (2021) is PROPOSED; approval not confirmed. **Personal input fields:** NONE YET (IT-2/CT views, actual partner, presentation/guest notes, Final Project theme/four articles). The four previously generated DOCX/PPTX exports have verified SHA-256 values listed in `QA_20261102_VERIFICATION_REPORT.md`; they are not committed as binary GitHub files.
 
+**November 3 correction (user-reported):** Presentation 2 is **0/60, fixed unless Professor Ryan explicitly reverses it**. His November 3, 3:24 p.m. email said the missed scheduled presentation receives zero. The student's evening November 3 follow-up was **SENT** and requested another slot or recorded delivery, or confirmation the zero stands; **reply pending**, with no reversal or make-up authorization for this presentation. The follow-up explained a specific interpretation of the instructor's October 31 message: the instructor would set a future deadline for missed work, which the student believed included Presentation 2 and placed its scheduling after November 4. Do **not** substitute a generic 'misunderstood the schedule' account. This record is not a renewed recovery attempt.
+
+**Course ceiling:** previous optimistic maximum **754.55/1,000** minus irrevocable (unless individually reversed) Presentation 2 **60 points** = **694.55/1,000 (69.455%, ~69.5%)**, **5.45 points short of 700/1,000 for C** even if all other potential points are earned. This is a conditional upper bound, not a predicted or posted grade. **Article Review 2 decision:** STILL NEEDED (SUBMIT IBDAH AS-IS / HOLD / OTHER APPROVED ARTICLE, with its name). Ibdah et al. (2021) approval is **unverified**; the approval-clarification email draft was **HELD and NOT SENT**. No Blackboard upload, no PR merge.
+
 ## Priority 1 — Nov. 3 deadline
 | Item | Points | Current output | Remaining blocker |
 |---|---:|---|---|
-| Article Review 2 | 100 | 2-page DOCX rendered and SHA-256 matched; proposed Ibdah paper | Approved paper confirmation and student sign-off; Nov. 3 deadline |
-| Presentation 2 | 60 | 12-slide PPTX exported, notes and overflow QA checked | Approved Review 2 paper; student sign-off and scheduled delivery; Nov. 3 deadline |
+| Article Review 2 | 100 | 2-page DOCX previously rendered and SHA-256 matched; proposed Ibdah paper | **Decision STILL NEEDED** (as-is / hold / named other approved article); approval pending; clarification draft held/not sent; Nov. 3 deadline |
+| Presentation 2 | 0/60 | Historical 12-slide PPTX export only; NOT a deliverable for recovery | **ZERO assigned by instructor on Nov. 3; not pending, not recoverable, not submittable.** Only an explicit reversal by Ryan changes it. Follow-up SENT Nov. 3 evening; reply pending. |
 
 ## Other source-based drafts
 | Item | Points | Output | Needed before submission |
@@ -38,7 +42,7 @@ This directory distinguishes **source-grounded drafted content** from **submissi
 ## Do not redo / do not count as points earned
 - Disallowed: IT-1 Student Quiz 1, Presentation 1, Article Review 1.
 - Already graded and 0 attempts left: Introduction PowerPoint, Writing Evaluations 1 and 2, PowerPoint Evaluations 1 and 2, Definitions, IT-1.
-- Previous gradebook snapshot: 64.55 / 400 resolved; course ceiling stated by user at 754.55 / 1,000 under optimistic assumptions. Neither the files nor a GitHub commit alters this.
+- Prior gradebook snapshot: 64.55 / 400 resolved before the Presentation 2 decision (posting of the zero in Blackboard not independently checked). User reports Ryan assigned **0/60** on Nov. 3. Revised optimistic ceiling **694.55/1,000 = 69.455% (~69.5%)**, **5.45 below a C**. If treating the assigned zero as resolved, **64.55 / 460** points decided, but this is bookkeeping, **not a verified new gradebook denominator**. Nothing in GitHub changes the recorded Blackboard grade.
 
 ## Rubric audit and past grading corrections
 - **Writing reviews:** APA 5%, purpose 5%, reason to publish 5%, demographics/method 10%, qual/quant results 10%, 3 strengths 5%, 3 weaknesses 5%, future work 7%, conclusion 10%, quality/writing 38%.

@@ -5,9 +5,13 @@
 ## Destination: Google Drive — one folder per course (IS 369 / IS 472 / IS 430). Drive upload starts once Drive is connected.
 ## Rubric/instruction detail lives in: all-courses-syllabi-due-dates-rubrics-2026-10-30.md (Oct 30 Blackboard read).
 
-## IS 369 — 26 items in scope (36 total − 3 disallowed − 7 graded/locked)
+## IS 369 — 26 originally tracked items (36 total − 3 disallowed − 7 previously graded/locked); Presentation 2 now a fixed 0/60, not actionable
 
 **Updated Nov 2:** Professor Bill Ryan's Oct 31 written reply (as provided by student) confirms makeup submission permission for IT-2, Critical Thinking 1/2, Guest Comments, and all discussed past-due peer comments. **Submit ASAP; specific makeup due date still TBD; full points possible depending on quality, not guaranteed.** No alternate assignments, extra credit, or Incomplete. Normal deadlines for work beginning Nov 3 remain in force. Ibdah Review 2 and Guo Review 3 are proposed papers, **not verified approved**. [Detailed evidence-gated ledger](is369/completion/COMPLETION_INDEX_AND_QA.md); [exact inputs still needed](is369/completion/STILL_NEEDED_EXACT_INPUTS_20261102.md).
+**November 3 correction (user-reported):** Presentation 2 is **0/60, fixed unless Professor Ryan explicitly reverses it**. His November 3, 3:24 p.m. email said the missed scheduled presentation receives zero. The student's evening November 3 follow-up was **SENT** and requested another slot or recorded delivery, or confirmation the zero stands; **reply pending**, with no reversal or make-up authorization for this presentation. The follow-up explained a specific interpretation of the instructor's October 31 message: the instructor would set a future deadline for missed work, which the student believed included Presentation 2 and placed its scheduling after November 4. Do **not** substitute a generic 'misunderstood the schedule' account. This record is not a renewed recovery attempt.
+
+**Course ceiling:** previous optimistic maximum **754.55/1,000** minus irrevocable (unless individually reversed) Presentation 2 **60 points** = **694.55/1,000 (69.455%, ~69.5%)**, **5.45 points short of 700/1,000 for C** even if all other potential points are earned. This is a conditional upper bound, not a predicted or posted grade. **Article Review 2 decision:** STILL NEEDED (SUBMIT IBDAH AS-IS / HOLD / OTHER APPROVED ARTICLE, with its name). Ibdah et al. (2021) approval is **unverified**; the approval-clarification email draft was **HELD and NOT SENT**. No Blackboard upload, no PR merge.
+
 ### Makeup pool — past due, 1 attempt left (write first, in this order)
 - [ ] IT-2 (30) — due was Oct 21, **MAKEUP PERMITTED**. Existing 21 answers; NEEDS full Hou PDF check, student's own evaluation and actual partner info (if applicable).
 - [ ] Critical Thinking Assignment 1 (10) — due was Sep 23, **MAKEUP PERMITTED**. Existing 20 answers; NEEDS official question sheet and student's actual opinions.
@@ -23,8 +27,8 @@
 
 ### Still open (due dates ahead or recently passed)
 - [ ] Comments 10/29 Presentation 2 (5) — due Oct 30, 11:59 PM EDT. NEEDS: notes on the 4 presentations covered.
-- [ ] Presentation 2 (60) — due Nov 3, 11:59 PM EST. NEEDS: his approved Review 2 article.
-- [ ] Article Review 2 (100) — due Nov 3, 11:59 PM EST. NEEDS: his approved Review 2 article.
+- [x] Presentation 2 (0/60) — **FIXED ZERO**, not recoverable/pending/submittable. Ryan's Nov 3, 3:24 p.m. email applied the missed-presentation zero. Evening follow-up SENT explaining the Oct 31 future-deadline interpretation; reply PENDING. No redraft or recovery work. Only Ryan can reverse this outcome.
+- [ ] Article Review 2 (100) — due Nov 3, 11:59 PM EST. **STILL NEEDED: explicit selection** (SUBMIT IBDAH AS-IS / HOLD / OTHER APPROVED ARTICLE). Ibdah approval pending; clarification email was HELD/NOT SENT. Existing 2-page Word artifact is technical-QA-passed only.
 - [ ] Comments 11/03 Presentation 2 (5) — due Nov 4, 11:59 PM EST. NEEDS: notes on the 4 presentations covered.
 - [ ] IT-2 Student Quiz 2 — due Nov 5 (time/points not shown). PREP ONLY — quiz itself must be taken by him in Blackboard.
 - [ ] IT-3 (30) — due Nov 11, 11:59 PM EST. NEEDS: IT-3 article + questions doc.

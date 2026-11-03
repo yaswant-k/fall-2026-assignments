@@ -1,6 +1,6 @@
 # Comments 2026-11-03 — Presentation 2
 **5 pts | Due 2026-11-04, 11:59 p.m. EST unless Blackboard specifies otherwise**  
-**Status:** FUTURE OR RECENT — **UNVERIFIABLE until the four actual presentations, their articles, and student observations are available.** These forms are not completed observations.
+**Status as of Nov. 3:** **STILL NEEDED — presenter identities, approved paper/source, actual presentation notes, and the student's own comments for all four presenters.** Do not assert class attendance or reactions; the absence of Presentation 2 credit for the student does not supply evidence for anyone else's presentation. These forms are not completed observations.
 
 ### Presenter 1
 **Name, approved paper, and verified material:** [FILL FROM PRESENTATION/SLIDES]

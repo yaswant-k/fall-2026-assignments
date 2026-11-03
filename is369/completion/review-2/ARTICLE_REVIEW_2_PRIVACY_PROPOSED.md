@@ -1,6 +1,6 @@
 # Article Review 2 — Privacy Policy Comprehension and User Control
 **IS 369 | Yaswant Kakarla | Fall 2026**  
-**Status: source-grounded REVIEW DRAFT; instructor approval of this as Review 2 has NOT been documented. Deadline: Nov. 3, 2026, 11:59 p.m. EST.**  
+**Status: source-grounded REVIEW DRAFT; instructor approval of this as Review 2 has NOT been documented. Explicit user selection (as-is / hold / other approved article) STILL NEEDED. Ibdah-approval clarification draft HELD/NOT SENT. Deadline: Nov. 3, 2026, 11:59 p.m. EST. No Blackboard submission.**  
 **Format for Word:** 12-point font, single-spaced, left-aligned, indent paragraph first lines; hanging-indent References. Do not present this as the author's original study.
 
 ## APA reference

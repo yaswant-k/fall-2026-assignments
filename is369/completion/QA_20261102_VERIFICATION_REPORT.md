@@ -1,9 +1,12 @@
 # IS 369 — Source and Export QA, 2026-11-02
 
 ## Scope and interpretation
+
+**November 3 status supersedes November 2 readiness notes:** Presentation 2 is **0/60** on Ryan's Nov. 3 3:24 p.m. message and is **not recoverable/pending/submittable** without his reversal; evening follow-up SENT under the October 31 TBD-deadline reading, reply pending. Corrected course maximum **694.55/1,000 (69.455%, ~69.5%)**, **5.45 points below C**. Article Review 2 explicit selection **STILL NEEDED** and approval unverified; Ibdah clarification draft HELD and NOT SENT. The 12-slide Presentation 2 export below is historical technical QA, **not permission to present or recover credit**.
+
 **Makeup authorization (user-reported written reply, October 31, 2026):** Professor Bill Ryan agreed to accept the missed IT-2, Critical Thinking assignments, Guest Comments, and past-due presentation comments discussed in the October 30 email, with full credit possible depending on quality. Submit ASAP. **Instructor-set makeup deadline remains TBD.** This is permission to submit, **not approval/acceptance of any draft and not points earned**. No alternate assignments, extra credit, or Incomplete. Work beginning November 3 remains subject to its ordinary deadline.
 
-**Article selection decision:** pending; no verified Ibdah or Guo professor approval. **Personal inputs:** NONE YET. This audit did not repeat the already completed Ibdah numeric source verification.
+**Article selection decision:** pending as of Nov. 3 (explicit as-is / hold / approved replacement choice not provided); no verified Ibdah or Guo professor approval. **Personal inputs:** NONE YET. This audit did not repeat the already completed Ibdah numeric source verification.
 
 This is **a verified layout/source audit, not an acceptance or Blackboard submission**. The working GitHub repository is PUBLIC. Research drafts and export scripts live on branch `is369/source-grounded-completion-20261102`. Actual DOCX/PPTX artifacts were generated and rendered in the ChatGPT conversation and made available as conversation file downloads; **binary DOCX/PPTX files have not been committed to GitHub**.
 

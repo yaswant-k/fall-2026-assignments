@@ -1,3 +1,7 @@
+# ARCHIVED — PRESENTATION 2 HAS AN INSTRUCTOR-ASSIGNED ZERO (NOV. 3, 2026)
+
+**0/60; NOT recoverable, pending, or submittable. No redraft or recovery attempt authorized.** Ryan's Nov. 3, 3:24 p.m. message assigned zero for missing the scheduled delivery. Student's Nov. 3 evening follow-up was sent under the Oct. 31 instructor-set-future-deadline interpretation; reply pending. Only Ryan can reverse the zero. The existing slides below are preserved solely as historical drafting evidence.
+
 ---
 marp: true
 paginate: true
