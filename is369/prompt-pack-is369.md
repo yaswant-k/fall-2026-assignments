@@ -2,13 +2,13 @@
 ## How to use this file
 Paste one assignment block (plus the rubric block it names) into any model, fill every [FILL] placeholder first, and tell the model to satisfy every criterion listed. Each block contains the due date, points, current status, instructions, rubric with weights, and deliverable format — everything the model needs, in one place.
 ## Honest scope note
-These packs target every rubric criterion for every actionable item. They cannot change scores already recorded, and they cannot guarantee a grade: IS 369's maximum possible total is 754.55/1,000 (a C) even with perfect remaining work, because 220 points are locked and 25.45 were lost to partial credit. Final grades are the instructor's judgment.
+These packs target every rubric criterion for every actionable item. They cannot change scores already recorded, and they cannot guarantee a grade: After Ryan's Nov. 3 assignment of 0/60 for Presentation 2, IS 369's optimistic maximum is **694.55/1,000 (69.455%, about 69.5%)**, which is **5.45 points below the 70% C threshold** even if every other available point is earned. Before this decision the optimistic ceiling was 754.55. Final grades are the instructor's judgment.
 ## Course facts
 - Total: 1,000 points. Bands: A 90–100%, B 80–89%, C 70–79%, D 60–69%, F 50–59%.
 - All article reviews must be submitted for an A.
 - Late/makeup policy (paraphrased): late work generally not accepted; missed work late only in extreme circumstances with documentation; late work may lose points; no extra credit; routine incompletes not awarded; a scheduled presentation missed without advance notice and a valid reason earns a zero.
 - Submission default: file upload (max 75 MB), SafeAssign enabled, 1 attempt left on open/past-due items.
-- Gradebook now: 64.55 / 400 points resolved so far.
+- Last independently recorded pre-Presentation-2 gradebook snapshot: 64.55/400 resolved. On Nov. 3 the instructor communicated Presentation 2 **0/60**; if counted as another 60 resolved points, then 64.55/460 decided, but Blackboard posting has not been verified. The student sent a follow-up on Nov. 3 evening explaining that the Oct. 31 promise of an instructor-set deadline for missed work was understood to include this presentation (hence after Nov. 4). **Reply pending; no reversal.**
 
 ## RUBRIC BLOCKS (referenced by the assignment blocks below)
 ### RUBRIC-W (Writing Evaluations)
@@ -36,7 +36,7 @@ Mechanics 4%; Research Design/Description/Overview 32%; Experiment Depth & Detai
 - Disallowed by the instructor (cannot be submitted): IT-1 Student Quiz 1, Presentation 1, Article Review 1.
 - Already graded, 0 attempts left (scores stand): Introduction PowerPoint (10/10), Writing Evaluation 1 (8.75/10), Writing Evaluation 2 (10/10), PowerPoint Evaluation 1 (7/10), PowerPoint Evaluation 2 (9.5/10), Definitions (10/10), IT-1 (9.3/30).
 
-## MAKEUP BLOCKS (past due — write for makeup submission, subject to instructor confirmation)
+## MAKEUP BLOCKS (past due — instructor permission user-reported confirmed Oct. 31; specific makeup due date TBD, authenticity gates still apply)
 ### PROMPT — IT-2 (30 pts, due was Oct 21, past due 0/30)
 Instructions: read the article before the session; work with one partner (both names on the assignment); each student also submits a separate evaluation; upload question responses and evaluation to Blackboard.
 Article: "The effects of critical thinking intervention reliance behaviors, problem-solving quality, and creativity during human-Generative AI collaboration learning."
@@ -80,16 +80,18 @@ Same instructions, rubric (RUBRIC-COM), and deliverable as above, for the Presen
 [FILL: the 4 presentations covered + your notes on each.]
 PASTE-READY PROMPT: same comments prompt as above, with the Oct 29 presentations and notes filled in.
 
-### PROMPT — Presentation 2 (60 pts, due Nov 3, 11:59 PM EST, ungraded)
-Instructions: upload the PowerPoint for the article review you selected and had approved; if scheduled to present that day, upload that day.
-[FILL: your approved Article Review 2 article (title, authors, findings) + your review content.]
+### ARCHIVED — Presentation 2 (0/60, Nov. 3 missed scheduled delivery)
+**NOT a pending, recoverable, or submittable assignment; do not redraft or attempt recovery.** At 3:24 p.m. Nov. 3 Ryan advised the scheduled presentation missed that day receives zero. Nov. 3 evening follow-up SENT explaining the Oct. 31 TBD-deadline interpretation, reply PENDING; only a reversal from Ryan changes the zero. Historical assignment specifications follow for record only.
+Instructions previously: upload the PowerPoint for the article review you selected and had approved; if scheduled to present that day, upload that day.
+[ARCHIVED SOURCE: the previously proposed Ibdah article was not verified approved.]
 Note (Oct 30 pull): the Fall 2026 presentation schedule (both sections) lists presenter names and dates only — no article titles for Review 2 or Review 3 — so your approved articles still come from you, not from the schedule.
 Rubric: RUBRIC-PRES above. Deliverable: PowerPoint file upload.
 PASTE-READY PROMPT: "Build the Presentation 2 slide deck below from the approved article review: purpose, reason to publish, methodology including demographics, qualitative and quantitative results, three supported strengths, three supported weaknesses, future research, summary/conclusion, APA citations, and polished delivery notes (succinct, organized, accurate, with charts/pictures where they help). Satisfy every criterion in RUBRIC-PRES, weighted as listed. [Article + review content:]"
 
-### PROMPT — Article Review 2 (100 pts, due Nov 3, 11:59 PM EST, ungraded)
-Instructions: attach the written review (Word document) to the Article Review 2 assignment and the PowerPoint to the Presentation 2 assignment; if you presented that day, the written review is due by midnight that day.
-[FILL: your approved Article Review 2 article — full citation, purpose, methodology, results.]
+### PROMPT — Article Review 2 (100 pts, due Nov 3, 11:59 PM EST; still pending decision)
+**STILL NEEDED: explicit user decision — SUBMIT IBDAH AS-IS / HOLD / OTHER APPROVED ARTICLE (name it).** The draft approval-clarification email was HELD/NOT SENT; Ibdah professor approval is not confirmed. Existing two-page Word export passed prior technical QA; not automatically cleared for submission. **If the student chooses to submit the existing Ibdah Word document, the correct destination is Article Review 2, even if an instruction page mistakenly says 'Review 1'.** Presentation 2 remains a fixed zero; do not submit its deck.
+Instructions: attach the written review (Word document) to the **Article Review 2** assignment.
+[FILL: user article decision and any actual professor-approved replacement — full citation, purpose, methodology, results.]
 Rubric: RUBRIC-REV above. Deliverable: Word document upload.
 PASTE-READY PROMPT: "Write the Article Review 2 below as a formal written review: APA citation, purpose description, reason to publish, methodology including demographics, qualitative and quantitative results, three supported strengths, three supported weaknesses, future research, summary/conclusion — with mechanics, material knowledge, writing quality, thoroughness, accuracy, paragraph lengths, flow, clarity, and critical stance throughout. Satisfy every criterion in RUBRIC-REV, weighted as listed. [Article details:]"
 

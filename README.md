@@ -1,4 +1,6 @@
-# Fall 2026 Assignments — UMBC (private study workspace)
+# Fall 2026 Assignments — UMBC (PUBLIC study workspace)
+
+> **Visibility notice:** This repository is publicly visible on GitHub. Do not commit confidential Blackboard handouts, unpublished presentation observations, or personal student records. The `is369/completion/` branch contains clearly labeled draft coursework, not submissions.
 
 Self-contained prompt packs, drafts, and prep sheets for IS 369, IS 472, and IS 430.
 Nothing in this repo is submitted anywhere — every file is a draft or a prompt for the
@@ -19,9 +21,7 @@ per-item go-ahead from the student.
   points already recorded, and they do not override instructor judgment — IS 472 has no
   pre-defined grade boundaries, and IS 430/IS 369 late and makeup terms are the
   instructors' decisions.
-- IS 369 ceiling on the inferred makeup mapping: max 754.55 / 1000 (75.5%, a C), needing
-  92.1% across makeup + future work. A 100% overall course grade is not achievable from
-  the recorded state, and no file here claims otherwise.
+- IS 369 corrected Nov. 3 optimistic ceiling: **694.55 / 1,000 (69.455%, ~69.5%)** after Presentation 2 was assigned **0/60** for the missed scheduled presentation. This is **5.45 points short of a C** even with perfect remaining scores, unless the instructor reverses the zero. His Nov. 3 evening follow-up is sent, reply pending. Article Review 2 paper approval is still unverified and the approval-clarification draft was held/not sent. Nothing here changes actual grades.
 - IS 430 lab handouts prohibit generative AI on the labs and require screenshots from
   the student's own SEED VM runs. The IS 430 prompts are therefore guided-execution
   prompts: they walk through the lab and check real outputs; they must not invent

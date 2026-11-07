@@ -1,0 +1,18 @@
+# IS 369 — November 2 resolution and source-status record
+
+- **Record correction:** User reports Bill Ryan's written reply on Oct. 31 authorizing missed IT-2, both Critical Thinking assignments, Guest Comments, and the discussed past-due presenter comments. Full credit is possible, not promised, and the makeup deadline remains unspecified. Work starting Nov. 3 is due normally. No alternates, extra credit or Incomplete.
+- **Article decision:** Ibdah 2021 for Review/Presentation 2 is **NOT CONFIRMED APPROVED**; used option **(b)**. Guo 2022 for Review/Presentation 3 also unconfirmed.
+- **Actual personal inputs:** IT-2/CT opinions = NONE YET; IT-2 partner = NONE YET (does not assert there was no partner); presenter and guest notes = NONE YET; Final Project confirmed theme and 4 article citations = NONE YET.
+- **Guo source status:** Publisher abstract and ResearchGate partial preview support 34 invited subjects and directional associations, but the full 14-page original text, analyzed sample, table means, effect sizes and complete referenced in-text citations were not accessible from connected Drive, Library, Springer preview or public web discovery. CT2 source draft includes numerical records transcribed from previous coursework, but those are NOT independently verified against the original full article. No figures were changed or invented.
+- **Integrity check:** Four previously created DOCX/PPTX artifacts on mounted workspace match all four SHA-256 values recorded in `QA_20261102_VERIFICATION_REPORT.md`. This doesn't validate the student's separate Mac downloads.
+- **Blackboard:** No uploads, approvals, quiz attempts, grades or session participation have been claimed. Nothing has been merged to `main`.
+- **Immediate next action as of Nov. 3:** Article Review 2 decision is **STILL NEEDED**: submit Ibdah as-is despite unverified approval, hold, or name another genuinely approved article. The Ibdah-approval clarification email was held and not sent. Source-based drafts may be technically sound while remaining blocked for submission.
+
+## November 3 factual correction
+
+**November 3 correction (user-reported):** Presentation 2 is **0/60, fixed unless Professor Ryan explicitly reverses it**. His November 3, 3:24 p.m. email said the missed scheduled presentation receives zero. The student's evening November 3 follow-up was **SENT** and requested another slot or recorded delivery, or confirmation the zero stands; **reply pending**, with no reversal or make-up authorization for this presentation. The follow-up explained a specific interpretation of the instructor's October 31 message: the instructor would set a future deadline for missed work, which the student believed included Presentation 2 and placed its scheduling after November 4. Do **not** substitute a generic 'misunderstood the schedule' account. This record is not a renewed recovery attempt.
+
+**Course ceiling:** previous optimistic maximum **754.55/1,000** minus irrevocable (unless individually reversed) Presentation 2 **60 points** = **694.55/1,000 (69.455%, ~69.5%)**, **5.45 points short of 700/1,000 for C** even if all other potential points are earned. This is a conditional upper bound, not a predicted or posted grade. **Article Review 2 decision:** STILL NEEDED (SUBMIT IBDAH AS-IS / HOLD / OTHER APPROVED ARTICLE, with its name). Ibdah et al. (2021) approval is **unverified**; the approval-clarification email draft was **HELD and NOT SENT**. No Blackboard upload, no PR merge.
+
+
+See `STILL_NEEDED_EXACT_INPUTS_20261102.md` for precise blockers and `COMPLETION_INDEX_AND_QA.md` for the full status table.
