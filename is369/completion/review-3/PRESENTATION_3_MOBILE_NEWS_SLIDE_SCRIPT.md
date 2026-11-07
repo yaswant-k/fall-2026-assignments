@@ -19,15 +19,14 @@ Guo et al. (2022), *Universal Access in the Information Society*
 **Question:** How do quantity complexity and layout complexity affect search behavior and satisfaction?
 
 - Task-based controlled eye-tracking experiment
-- **34 participants**
+- **34 recruited, 30 analyzed**
 - Controlled interface prototypes; subjective satisfaction measurement
 - Primarily **quantitative** analysis; no interview themes asserted
 ---
 # Who participated?
-- **34 recruited participants**
+- **34 recruited; 30 completed and analyzed (16 male, 14 female)**
 - Reported age range **21–26**; mean **23.85**, SD **1.42**
 - Limited age and usage-profile diversity
-- Verify exact subgroup breakdown from complete article before final upload
 ---
 # What was measured?
 - **Fixation count:** periods of stable visual attention
@@ -59,7 +58,7 @@ Higher quantity complexity was associated with:
 3. Compares systematically manipulated layouts
 ---
 # Weaknesses, with supporting evidence
-1. **n = 34**, limited age diversity
+1. **n = 30 analyzed (34 recruited)**, limited age diversity
 2. Experimental tasks do not fully reproduce everyday phone use
 3. Two complexity variables cannot capture accessibility, ads, and personalization
 ---
